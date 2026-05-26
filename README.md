@@ -1,5 +1,10 @@
 # 🛍️ TikTok Shop 无货源代发 · 选品自动化系统
 
+[![Stars](https://img.shields.io/github/stars/qq773901406-cmd/shop-dropshipping-automation?style=social)](https://github.com/qq773901406-cmd/shop-dropshipping-automation/stargazers)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Platform](https://img.shields.io/badge/platforms-抖音%20|%20B站%20|%20微博%20|%20Instagram%20|%20YouTube-blue)](https://github.com/qq773901406-cmd/shop-dropshipping-automation)
+[![Automation](https://img.shields.io/badge/automation-fully%20automated-brightgreen)](https://github.com/qq773901406-cmd/shop-dropshipping-automation)
+
 > 每天 09:30 自动完成「选品分析 → 下载素材 → 生成卡片 → 多平台发布 → 企微推送」全链路，零人工干预。
 
 ---
