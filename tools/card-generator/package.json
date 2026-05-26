@@ -1,0 +1,13 @@
+{
+  "name": "card-generator",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "每日选品数据可视化卡片生成器",
+  "main": "index.js",
+  "scripts": {
+    "generate": "node index.js"
+  },
+  "dependencies": {
+    "playwright": "^1.44.0"
+  }
+}

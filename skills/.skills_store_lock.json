@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "skills": {
+    "find-skills": {
+      "name": "Find Skills",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=find-skills",
+      "source": "skillhub",
+      "version": "0.1.0"
+    },
+    "1688": {
+      "name": "1688图片下载器",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=1688",
+      "source": "skillhub",
+      "version": "1.0.0"
+    }
+  }
+}
